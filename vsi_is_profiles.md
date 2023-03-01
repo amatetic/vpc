@@ -2,7 +2,7 @@
 copyright:
   years: 2019, 2023
 
-lastupdated: "2023-02-22"
+lastupdated: "2023-03-01"
 
 keywords: vsi, virtual server instances, profile, profiles, balanced, compute, memory, ultra high memory, very high memory, gpu, sap, olap, oltp, nvidia, cascade lake
 
@@ -209,7 +209,7 @@ GPU profiles include 1 or 2 NVIDIA V100 PCIe 16GB GPUs. All OS images are suppor
 | gx2-8x64x1v100 | 8 | 4 | 64 | 16 | 1 |
 | gx2-16x128x1v100 | 16 | 8 | 128 | 32 | 1 |
 | gx2-16x128x2v100 | 16 | 8 | 128 | 32 | 2 |
-| gx2-32x256x2v100 | 32 | 16 | 256 | 64 | 2 |
+| gx2-32x256x2v100 | 32 | 16 | 256 | 200 | 2 |
 {: caption="Table 8. GPU profile options" caption-side="bottom"}
 {: #gpu-intel-x86-64}
 {: tab-title="Intel x86-64"}
