@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2022
-lastupdated: "2022-11-04"
+  years: 2022, [{CURRENT_YEAR}]
+lastupdated: "[{LAST_UPDATED_DATE}]"
 
 keywords: question about Red Hat Enterprise Linux virtual server instance in failed state created from classic infrastructure custom image
 
